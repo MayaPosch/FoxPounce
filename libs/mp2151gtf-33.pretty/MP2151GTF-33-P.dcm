@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MP2151GTF-33-P
+D Switching Voltage Regulators 1A,2.5-5.5V,3.3V Vout,1.1MHz,Synchronous Buck with 25 A Iq, PG and Output Discharge in SOT563
+K
+F https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP2151/document_id/4678/
+$ENDCMP
+#
+#End Doc Library
